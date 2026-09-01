@@ -3,6 +3,3 @@ node_modules/*
 # ignore config file -> security
 config/config.env
 
-.github/
-__tests__/
-autograde.js
